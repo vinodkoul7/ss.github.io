@@ -340,14 +340,14 @@ input[type="checkbox"] {
 }
 
 .navbar .icon-bar {
-    color: #fff;
+    color: rgb(250, 250, 250);
 }
 
 .navbar .navbar-nav .nav-link {
     font-size: 16px;
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    color: #fff;
+    color: rgb(250, 250, 250);
     margin: 15px 5px;
     -webkit-transition: all .4s;
     transition: all .4s;
@@ -362,7 +362,7 @@ input[type="checkbox"] {
 }
 
 .nav-scroll {
-    background: #fff;
+    background: rgb(249, 249, 250);
     padding: 0 0 0 0;
     position: fixed;
     top: -100px;
@@ -610,7 +610,7 @@ input[type="checkbox"] {
         background: transparent;
     }
     .nav-scroll {
-        background: #fff;
+        background: rgb(9, 212, 36);
     }
     .logo-wrapper {
         float: left;
@@ -618,7 +618,7 @@ input[type="checkbox"] {
     }
     .nav-scroll .logo-wrapper {
         padding: 15px;
-        background-color: #fff;
+        background-color: rgb(255, 255, 255);
     }
 }
 
